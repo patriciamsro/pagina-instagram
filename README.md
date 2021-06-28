@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Visite a demonstração em:[https://patriciamsro.github.io/pagina-instagram/index.html](https://patriciamsro.github.io/pagina-instagram/index.html)
+Visite a demonstração em: [https://patriciamsro.github.io/pagina-instagram/index.html](https://patriciamsro.github.io/pagina-instagram/index.html)
 
 Projeto de recriação da página de login do Instagram, proposto na formação Fullstack da Everis pelo Digital Innovation One.
 
